@@ -1,0 +1,3 @@
+/home/i3d5mok3/Videos/ALERTS/build/CMakeFiles/rebuild_cache.dir
+/home/i3d5mok3/Videos/ALERTS/build/CMakeFiles/ALERTS.dir
+/home/i3d5mok3/Videos/ALERTS/build/CMakeFiles/edit_cache.dir

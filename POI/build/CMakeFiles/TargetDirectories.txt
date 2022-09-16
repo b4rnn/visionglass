@@ -1,0 +1,3 @@
+/home/i3d5mok3/Videos/POI/build/CMakeFiles/rebuild_cache.dir
+/home/i3d5mok3/Videos/POI/build/CMakeFiles/POI.dir
+/home/i3d5mok3/Videos/POI/build/CMakeFiles/edit_cache.dir

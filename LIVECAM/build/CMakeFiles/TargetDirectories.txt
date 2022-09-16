@@ -1,0 +1,4 @@
+/home/i3d5mok3/Videos/LIVECAM/build/CMakeFiles/rebuild_cache.dir
+/home/i3d5mok3/Videos/LIVECAM/build/CMakeFiles/edit_cache.dir
+/home/i3d5mok3/Videos/LIVECAM/build/CMakeFiles/facedetect.dir
+/home/i3d5mok3/Videos/LIVECAM/build/CMakeFiles/LIVECAM.dir
