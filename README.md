@@ -1,7 +1,3 @@
-# VISIONGLASS
-```
- Improving Accountability Through Monitoring.
-```
 # PRODUCTION SETUP
 *VISIONGLASS box consists of 8 containers*
 
