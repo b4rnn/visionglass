@@ -30,7 +30,7 @@ Update database with the right data based on metrics
 ```
 # ARCHICTECTURE
 ```
-![alt tag](https://raw.githubusercontent.com/b4rnn/visionglass/main/DEPLOYMENT/ARCHITECTURE/ARCHITECTURE.png)
+<img src="https://raw.githubusercontent.com/b4rnn/visionglass/main/DEPLOYMENT/ARCHITECTURE/ARCHITECTURE.png" alt="My cool logo"/>
 
 ```
 # METRICS
