@@ -30,7 +30,7 @@ Update database with the right data based on metrics
 ```
 # ARCHICTECTURE
 ```
-![ARCHITECTURE](https://github.com/b4rnn/visionglass/assets/110595517/329bf8a8-13c0-4aff-9970-28951a6f950c)
+![ARCHITECTURE](https://raw.githubusercontent.com/b4rnn/visionglass/main/DEPLOYMENT/ARCHITECTURE/ARCHITECTURE.png)
 
 ```
 # METRICS
