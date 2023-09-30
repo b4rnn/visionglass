@@ -30,7 +30,8 @@ Update database with the right data based on metrics
 ```
 # ARCHICTECTURE
 ```
-<img src="https://raw.githubusercontent.com/b4rnn/visionglass/main/DEPLOYMENT/ARCHITECTURE/ARCHITECTURE.png" alt="My cool logo"/>
+
+![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
 
 ```
 # METRICS
