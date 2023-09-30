@@ -28,12 +28,7 @@ Notify admin of any potential Person of Interest
 Publish recognised and detected faces for analysis.
 Update database with the right data based on metrics
 ```
-# ARCHICTECTURE
-```
 
-![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
-
-```
 # METRICS
 ```
 ALL METRICS CAN BE AJUSTED BY ADMIN.HOWEVER, SPECIFIC CAMERA MUST BE RESTARTED FOR CHANGE TO TAKE EFFECT.
