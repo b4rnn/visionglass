@@ -28,9 +28,10 @@ Notify admin of any potential Person of Interest
 Publish recognised and detected faces for analyis
 Update database with the right data based on metrics
 ```
-# APIS
+# ARCHICTECTURE
 ```
- #START STOP CAMERA
+![ARCHITECTURE](https://github.com/b4rnn/visionglass/assets/110595517/329bf8a8-13c0-4aff-9970-28951a6f950c)
+
 ```
 # METRICS
 ```
