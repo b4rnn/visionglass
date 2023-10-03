@@ -1,3 +1,4 @@
+![ARCHITECTURE.png]
 # PRODUCTION SETUP
 *VISIONGLASS box consists of 8 containers*
 
